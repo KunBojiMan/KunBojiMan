@@ -1,5 +1,21 @@
-# 💫 About Me:
-🛠 I’m currently working on<br>Developing innovative solutions and exploring advanced features in Shopware 6.<br><br>🌱 I’m currently learning<br>LLMs, AI agents, and their applications in real-world scenarios.<br><br>💬 Ask me about<br>Shopware 6, advanced e-commerce customization, or starting with AI tools in development.<br><br>⚡ Fun fact<br>Our GitHub account is a collaboration between Erwin and Kevin—two developers united by creativity and caffeine. Fun side project: experimenting with how AI can help us automate everyday development tasks!
+👋 Hello World!
+
+Welcome to WalterLabs – where creativity meets innovation. We're Erwin & Kevin, two developers with a passion for exploring and building creative ideas through various (top secret 🤫) apps.
+🌱 Currently Learning
+
+We’re diving deep into LLMs, AI agents, and their real-world applications to solve exciting challenges.
+💬 Ask Us About
+
+We love talking about:
+
+    E-commerce solutions 🚀
+    App development 📱
+    Getting started with AI tools 🤖
+    And of course, Shopware 6 questions are always welcome – but feel free to bring up any other exciting tech topics too!
+
+⚡ Fun Fact
+
+Our GitHub journey isn’t just about development; we’re also experimenting with how AI can make everyday tasks smarter and more fun. (And yes, we’re trying to train it to brew the perfect cup of coffee ☕!)
 
 
 # 💻 Tech Stack:
