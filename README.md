@@ -5,16 +5,15 @@ We're **Erwin & Kevin**, two developers with a passion for exploring and buildin
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 We’re diving deep into **LLMs**, **AI agents**, and their real-world applications to solve exciting challenges.
 
 ---
 
-## 💬 Ask Us About
+## Ask Us About
 We love talking about:
-- **E-commerce solutions** 🚀  
-- **App development** 📱  
-- **Getting started with AI tools** 🤖  
+- **E-commerce solutions**  
+- **App development**
 - And of course, **Shopware 6 questions** are always welcome – but feel free to bring up any other exciting tech topics too!
 
 ---
